@@ -9,4 +9,7 @@ For demonstration of Git/Github
 ## Deployment
 Can be deployed on any server or local file system
 
+### Copyright
+2020 Git Training
+
 Sample website with plenty of files for demos
