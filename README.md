@@ -12,7 +12,7 @@ For demonstration of Git/Github
 Can be deployed on any server or local file system
 
 ### Copyright
-2020 Git Training
+2020 Git Training. All rights reserved
 
 ### How To Contribute
 Please fork this repo and pull request
