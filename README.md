@@ -2,8 +2,6 @@
 
 A sample website for demonstrating Git & Github
 This repository is for showing how Git and GitHub work
-Adding line for rebasing, then more changes from 
-myfeature branch
 
 ## Purpose
 For demonstration of Git/Github
